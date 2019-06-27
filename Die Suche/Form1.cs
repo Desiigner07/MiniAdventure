@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Die_Suche.Properties;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -288,9 +289,9 @@ namespace Die_Suche
                 } 
             }
 
-        Bitmap UpgradeSword = new Bitmap(@"C:\Users\pohly\Documents\Visual Studio 2015\Projects\Die Suche\Die Suche\Grafiken\swordUpgrade.PNG");
-        Bitmap UpgradeBow = new Bitmap(@"C:\Users\pohly\Documents\Visual Studio 2015\Projects\Die Suche\Die Suche\Grafiken\bomb.png");
-        Bitmap UpgradeMace = new Bitmap(@"C:\Users\pohly\Documents\Visual Studio 2015\Projects\Die Suche\Die Suche\Grafiken\battleaxe.png");
+        Bitmap UpgradeSword = new Bitmap(Resources.swordUpgrade);
+        Bitmap UpgradeBow = new Bitmap(Resources.bomb);
+        Bitmap UpgradeMace = new Bitmap(Resources.mace);
         public void WaffenUpgrade()
         {
             if (Schmiede.BenutztfürSchwert)

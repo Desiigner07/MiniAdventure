@@ -19,3 +19,14 @@ D:\SoftDev\User\Pohly\Die Suche\Die Suche\obj\Debug\Die_Suche.Form1.resources
 D:\SoftDev\User\Pohly\Die Suche\Die Suche\obj\Debug\Die_Suche.Properties.Resources.resources
 D:\SoftDev\User\Pohly\Die Suche\Die Suche\obj\Debug\Die Suche.csproj.GenerateResource.cache
 D:\SoftDev\User\Pohly\Die Suche\Die Suche\obj\Debug\Die Suche.csproj.CoreCompileInputs.cache
+D:\SoftDev\MiniAdventure\Die Suche\bin\Debug\Die Suche.exe.config
+D:\SoftDev\MiniAdventure\Die Suche\bin\Debug\Die Suche.exe
+D:\SoftDev\MiniAdventure\Die Suche\bin\Debug\Die Suche.pdb
+D:\SoftDev\MiniAdventure\Die Suche\obj\Debug\Die Suche.csprojAssemblyReference.cache
+D:\SoftDev\MiniAdventure\Die Suche\obj\Debug\Die Suche.g.resources
+D:\SoftDev\MiniAdventure\Die Suche\obj\Debug\Die_Suche.Form1.resources
+D:\SoftDev\MiniAdventure\Die Suche\obj\Debug\Die_Suche.Properties.Resources.resources
+D:\SoftDev\MiniAdventure\Die Suche\obj\Debug\Die Suche.csproj.GenerateResource.cache
+D:\SoftDev\MiniAdventure\Die Suche\obj\Debug\Die Suche.csproj.CoreCompileInputs.cache
+D:\SoftDev\MiniAdventure\Die Suche\obj\Debug\Die Suche.exe
+D:\SoftDev\MiniAdventure\Die Suche\obj\Debug\Die Suche.pdb

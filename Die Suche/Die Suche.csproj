@@ -105,8 +105,10 @@
     <Content Include="Grafiken\bomb.png" />
     <Content Include="Grafiken\bow.png" />
     <Content Include="Grafiken\dungeon600x400.png" />
+    <None Include="Grafiken\Fireball2.png" />
     <Content Include="Grafiken\ghost.png" />
     <Content Include="Grafiken\ghoul.png" />
+    <None Include="Grafiken\Goblin.png" />
     <Content Include="Grafiken\mace.png" />
     <Resource Include="Grafiken\Pfeiltaste1.PNG">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
